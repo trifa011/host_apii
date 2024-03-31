@@ -1,0 +1,47 @@
+
+{
+  "application_name": "FuelEasy",
+  "version": "1.0",
+  "description": "FuelEasy is a mobile application that allows users to order fuel delivery to their location conveniently.",
+  "features": [
+    {
+      "name": "Order Fuel",
+      "description": "Users can place orders for fuel delivery specifying the type and quantity of fuel they need."
+    },
+    {
+      "name": "Location Tracking",
+      "description": "The app utilizes GPS to track the user's location and provide accurate delivery services."
+    },
+    {
+      "name": "Payment Integration",
+      "description": "Users can pay for fuel orders securely within the app using various payment methods."
+    },
+    {
+      "name": "Order History",
+      "description": "Users can view their order history to track previous transactions and fuel consumption."
+    },
+    {
+      "name": "Notifications",
+     json_file
+      "description": "Users receive real-time notifications regarding order status, delivery updates, and promotional offers."
+    }
+  ],
+  "technologies_used": [
+    "React Native",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Google Maps API",
+    "Payment Gateway Integration"
+  ],
+  "team": {
+    "developers": ["John Doe", "Jane Smith"],
+    "designers": ["Emily Johnson"],
+    "project_manager": "Michael Brown"
+  },
+  "contact_information": {
+    "email": "info@fueleasy.com",
+    "phone": "+1234567890",
+    "website": "https://www.fueleasy.com"
+  }
+}
